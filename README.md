@@ -1,5 +1,5 @@
 # session.js - super simple session management for node.js
-
+This repo is highly useful, but it appears to have become stagnant, so I'm going to try carrying it forward.
 
 ## Installation
 
